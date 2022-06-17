@@ -596,8 +596,6 @@ def func_metrics_results(root_path,
 
   df_results = {"mode":[],
                 "name": [],
-                "diff_Emod": [],
-                "diff_Emod_p": [],
                 "diff_Emod_Def": [],
                 "diff_Emod_p_Def": [],           
                 "RMSE_P": [],
