@@ -38,7 +38,16 @@ Helper functions to query the public database.
 If you find this helpfull please cite:
 
 ```
-
+@article{aguirre2023central,
+  title={Central Arterial Dynamic Evaluation from Peripheral Blood Pressure Waveforms Using CycleGAN: An In Silico Approach},
+  author={Aguirre, Nicolas and Cymberknop, Leandro J and Grall-Ma{\"e}s, Edith and Ipar, Eugenia and Armentano, Ricardo L},
+  journal={Sensors},
+  volume={23},
+  number={3},
+  pages={1559},
+  year={2023},
+  publisher={MDPI}
+}
 ```
 
 
